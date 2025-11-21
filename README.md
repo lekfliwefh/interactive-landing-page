@@ -278,4 +278,4 @@ Built this project to learn? Here are some helpful resources:
 
 **Made with ❤️ and ☕**
 
-*If you have any questions or suggestions, feel free to reach out!*
+*Thank You*
