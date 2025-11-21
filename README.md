@@ -36,7 +36,7 @@ JavaScript – Interactivity & dynamic elements
 
 Clone the repository
 
-git clone https://github.com/your-username/interactive-landing-page.git
+git clone https://github.com/lekfliwefh/interactive-landing-page.git
 
 
 Open the index.html file in your browser
